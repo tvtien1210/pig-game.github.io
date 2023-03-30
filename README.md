@@ -1,5 +1,7 @@
 # the-pig-game.github.io
 
+https://tvtien1210.github.io/the-pig-game.github.io/
+
 The-Pig-Game
 
 Fun 2 player game with the dice in the center
